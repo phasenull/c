@@ -1,2 +1,2 @@
 default:
-	cc ./src/main.c -o app.out
+	cc -Wall -Werror ./src/main.c -o app.out
