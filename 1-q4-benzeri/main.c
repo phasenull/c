@@ -18,7 +18,7 @@ char delimeters[] = "-*#! ";
 int main(int argc, char **argv)
 {
     int DEBUG = 0;
-    if (argc > 0)
+    if (argc > 1)
     {
         DEBUG = 1;
     }
