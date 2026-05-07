@@ -93,6 +93,6 @@ int main(int argc, char **argv)
         i++;
     }
     char output[256];
-    sprintf(output, "[%02d:%02d] Giren: %.3s | No: %d", entry.date.hour, entry.date.min, entry.name, entry.no);
+    sprintf(output, "[%02d:%02d] Giren: %.3s | No:%15d", entry.date.hour, entry.date.min, entry.name, entry.no);
     fputs(output, stdout);
 }
