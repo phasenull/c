@@ -3,7 +3,7 @@
 #include "stdlib.h"
 #include "stdio.h"
 #define FILE_PATH "./transactions.csv"
-#define BYTES_PER_COLUMN 32
+#define BYTES_PER_COLUMN 64
 #define MAX_COLUMNS 10
 struct ApplicationMemory
 {
@@ -84,7 +84,8 @@ int loadFile(FILE *stream, struct ApplicationMemory *app)
 }
 void cleanBuffer()
 {
-	while (getchar() != '\n' && getchar() != EOF)
+	int c;
+	while ((c = getchar()) != '\n' && c != EOF)
 	{
 	}
 }
@@ -149,7 +150,7 @@ void mainLoop(FILE *stream, struct ApplicationMemory *app)
 			{
 				memcpy(results + result_count * app->column_count * BYTES_PER_COLUMN, row_data, app->column_count * BYTES_PER_COLUMN);
 				result_count += 1;
-				results = realloc(results, result_count * app->column_count * BYTES_PER_COLUMN);
+				results = realloc(results, (result_count + 1) * app->column_count * BYTES_PER_COLUMN);
 			}
 		}
 		printf("Found %d results.", result_count);
@@ -160,7 +161,7 @@ void mainLoop(FILE *stream, struct ApplicationMemory *app)
 				break;
 			}
 			printf("\n[%d]:", i);
-			printEntry(app, results + i * BYTES_PER_COLUMN * MAX_COLUMNS);
+			printEntry(app, results + i * BYTES_PER_COLUMN * app->column_count);
 			printf("\n");
 		}
 	}
