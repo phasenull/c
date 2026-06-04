@@ -23,3 +23,5 @@ struct DataRow
 {
 int \*fields;
 };
+
+Result'u render ederken eğer zaman varsa dosyada baştan olarak satırını bulup göster (biraz opsiyonel)
