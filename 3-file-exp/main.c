@@ -99,12 +99,10 @@ char *getColumnNameFromIndex(struct ApplicationMemory *app, int index)
 void printEntry(struct ApplicationMemory *app, char *entry)
 {
 	printf("|");
-	printf("Entry: %s", entry);
 	for (int i = 0; i < app->column_count; i++)
 	{
-		printf("%-16s", entry + i * BYTES_PER_COLUMN);
+		printf("%s|", entry + i * BYTES_PER_COLUMN);
 	}
-	printf("|");
 }
 void mainLoop(FILE *stream, struct ApplicationMemory *app)
 {
@@ -151,7 +149,6 @@ void mainLoop(FILE *stream, struct ApplicationMemory *app)
 			{
 				memcpy(results + result_count * app->column_count * BYTES_PER_COLUMN, row_data, app->column_count * BYTES_PER_COLUMN);
 				result_count += 1;
-				printEntry(app, results + result_count * app->column_count * BYTES_PER_COLUMN);
 				results = realloc(results, result_count * app->column_count * BYTES_PER_COLUMN);
 			}
 		}
