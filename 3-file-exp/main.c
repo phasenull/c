@@ -45,7 +45,7 @@ int loadFile(FILE *stream, struct ApplicationMemory *app)
 	char *reader = buffer;
 	for (int i = 0; i < MAX_COLUMNS; i++)
 	{
-		reader = strtok(i == 0 ? reader : NULL, "|");
+		reader = strtok(i == 0 ? reader : NULL, ",");
 		if (!reader)
 		{
 			app->column_count = i;
@@ -73,7 +73,7 @@ int loadFile(FILE *stream, struct ApplicationMemory *app)
 		char *reader = buffer;
 		for (int i = 0; i < app->column_count; i++)
 		{
-			reader = strtok(i == 0 ? buffer : NULL, "|");
+			reader = strtok(i == 0 ? buffer : NULL, ",");
 
 			reader[strcspn(reader, "\n")] = '\0';
 			strcpy(app->row_data + (row - 1) * BYTES_PER_COLUMN * app->column_count + i * BYTES_PER_COLUMN, reader);
@@ -154,7 +154,7 @@ void mainLoop(FILE *stream, struct ApplicationMemory *app)
 			}
 		}
 		printf("Found %d results.", result_count);
-		for (int i = 0; i < 10; i++)
+		for (int i = 0; i < 25; i++)
 		{
 			if (i + 1 > result_count)
 			{
