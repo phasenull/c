@@ -55,6 +55,7 @@ int loadFile(FILE *stream, struct ApplicationMemory *app)
 			app->column_count = i;
 			break;
 		}
+		reader[strcspn(reader, "\n")] = '\0';
 		strcpy(app->column_names + BYTES_PER_COLUMN * i, reader);
 	}
 	printf("Found columns in %s:\n", FILE_PATH);
@@ -77,11 +78,42 @@ int loadFile(FILE *stream, struct ApplicationMemory *app)
 		for (int i = 0; i < app->column_count; i++)
 		{
 			reader = strtok(i == 0 ? buffer : NULL, "|");
+
+			reader[strcspn(reader, "\n")] = '\0';
 			strcpy(app->row_data + (row - 1) * BYTES_PER_COLUMN * app->column_count + i * BYTES_PER_COLUMN, reader);
 		}
 	}
 	printf("Loaded %d rows, total size: %d bytes.", app->row_count, app->row_count * app->column_count * BYTES_PER_COLUMN);
 	return 0;
+}
+void mainLoop(FILE *stream, struct ApplicationMemory *app)
+{
+	int RUNNING = 1;
+	while (RUNNING)
+	{
+
+		printf("\n\nSelect action:\n");
+		printf("[0]: Exit\n");
+		for (int i = 0; i < app->column_count; i++)
+		{
+			printf("[%d]: Search in column '%s'\n", i + 1, app->column_names + i * BYTES_PER_COLUMN);
+		}
+		int ACTION_KEY;
+		scanf("%d", &ACTION_KEY);
+		if (ACTION_KEY)
+		{
+			int search_column = ACTION_KEY - 1;
+			char search_kwd[BYTES_PER_COLUMN];
+			printf("%s search: ", app->column_names + search_column * BYTES_PER_COLUMN);
+			fgets(search_kwd, BYTES_PER_COLUMN, stdin);
+			printf("\nSearching: %s\n", search_kwd);
+		}
+		if (ACTION_KEY == 0)
+		{
+			printf("Exiting...\n");
+			RUNNING = 0;
+		}
+	}
 }
 int main(int argc, char **argv)
 {
@@ -98,5 +130,6 @@ int main(int argc, char **argv)
 		exit(1);
 	}
 	loadFile(dosya, app);
+	mainLoop(dosya, app);
 	return 0;
 }
