@@ -5,10 +5,6 @@
 #define FILE_PATH "./transactions.csv"
 #define BYTES_PER_COLUMN 32
 #define MAX_COLUMNS 10
-struct DataRow
-{
-	int *fields;
-};
 struct ApplicationMemory
 {
 	char *row_data;
@@ -92,33 +88,83 @@ void cleanBuffer()
 	{
 	}
 }
+char *getColumnNameFromIndex(struct ApplicationMemory *app, int index)
+{
+	if (index + 1 > app->column_count)
+	{
+		return NULL;
+	}
+	return app->column_names + index * BYTES_PER_COLUMN;
+}
+void printEntry(struct ApplicationMemory *app, char *entry)
+{
+	printf("|");
+	printf("Entry: %s", entry);
+	for (int i = 0; i < app->column_count; i++)
+	{
+		printf("%-16s", entry + i * BYTES_PER_COLUMN);
+	}
+	printf("|");
+}
 void mainLoop(FILE *stream, struct ApplicationMemory *app)
 {
 	int RUNNING = 1;
+	int result_count = 0;
+	char *results = malloc(app->column_count * BYTES_PER_COLUMN);
 	while (RUNNING)
 	{
-
-		printf("\n\nSelect action:\n");
+		printf("\n\n");
 		printf("[0]: Exit\n");
 		for (int i = 0; i < app->column_count; i++)
 		{
 			printf("[%d]: Search in column '%s'\n", i + 1, app->column_names + i * BYTES_PER_COLUMN);
 		}
 		int ACTION_KEY;
+		printf("\nSelect action: ");
 		scanf("%d", &ACTION_KEY);
 		cleanBuffer();
-		if (ACTION_KEY)
-		{
-			int search_column = ACTION_KEY - 1;
-			char search_kwd[BYTES_PER_COLUMN];
-			printf("%s search: ", app->column_names + search_column * BYTES_PER_COLUMN);
-			fgets(search_kwd, BYTES_PER_COLUMN, stdin);
-			printf("\nSearching: %s\n", search_kwd);
-		}
 		if (ACTION_KEY == 0)
 		{
 			printf("Exiting...\n");
 			RUNNING = 0;
+			return;
+		}
+		int search_column = ACTION_KEY - 1;
+		char search_kwd[BYTES_PER_COLUMN];
+		printf("Search in '%s': ", app->column_names + search_column * BYTES_PER_COLUMN);
+		fgets(search_kwd, BYTES_PER_COLUMN, stdin);
+
+		// search
+		search_kwd[strcspn(search_kwd, "\n")] = '\0';
+		int prefix_index = strcspn(search_kwd, "\%");
+		char *prefix_exists = strchr(search_kwd, '%');
+		printf("\nSearching: %d|%s|\n", prefix_index, search_kwd);
+		search_kwd[strcspn(search_kwd, "\%")] = '\0';
+		result_count = 0;
+		free(results);
+		results = malloc(app->column_count * BYTES_PER_COLUMN);
+		for (int row = 0; row < app->row_count; row++)
+		{
+			char *row_data = app->row_data + row * BYTES_PER_COLUMN * app->column_count;
+			char *column_data = row_data + search_column * BYTES_PER_COLUMN;
+			if (prefix_exists == NULL ? (strcmp(search_kwd, column_data) == 0) : (memcmp(search_kwd, column_data, prefix_index) * sizeof(char)) == 0)
+			{
+				memcpy(results + result_count * app->column_count * BYTES_PER_COLUMN, row_data, app->column_count * BYTES_PER_COLUMN);
+				result_count += 1;
+				printEntry(app, results + result_count * app->column_count * BYTES_PER_COLUMN);
+				results = realloc(results, result_count * app->column_count * BYTES_PER_COLUMN);
+			}
+		}
+		printf("Found %d results.", result_count);
+		for (int i = 0; i < 10; i++)
+		{
+			if (i + 1 > result_count)
+			{
+				break;
+			}
+			printf("\n[%d]:", i);
+			printEntry(app, results + i * BYTES_PER_COLUMN * MAX_COLUMNS);
+			printf("\n");
 		}
 	}
 }
