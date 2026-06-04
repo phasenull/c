@@ -86,6 +86,12 @@ int loadFile(FILE *stream, struct ApplicationMemory *app)
 	printf("Loaded %d rows, total size: %d bytes.", app->row_count, app->row_count * app->column_count * BYTES_PER_COLUMN);
 	return 0;
 }
+void cleanBuffer()
+{
+	while (getchar() != '\n' && getchar() != EOF)
+	{
+	}
+}
 void mainLoop(FILE *stream, struct ApplicationMemory *app)
 {
 	int RUNNING = 1;
@@ -100,6 +106,7 @@ void mainLoop(FILE *stream, struct ApplicationMemory *app)
 		}
 		int ACTION_KEY;
 		scanf("%d", &ACTION_KEY);
+		cleanBuffer();
 		if (ACTION_KEY)
 		{
 			int search_column = ACTION_KEY - 1;
