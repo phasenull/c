@@ -15,3 +15,11 @@ lookup sonucunu
 [Column1.Name]: Result.1.Value
 [Column2.Name]: Result.2.Value
 şeklinde listeleyip göster
+
+NOT:
+DataRow struct'ı malloc ile dinamik olarak ayarlanmalı, column name'lerine göre ayrı property açılıp okunmamalı. Her column için max 128 byte ayır.
+
+struct DataRow
+{
+int \*fields;
+};
