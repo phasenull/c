@@ -1,0 +1,737 @@
+Custom Field 2, Custom Field 1||Date|Transaction amount
+Total|2026-05-20T00:00:00.000Z|11858859
+Total|2026-05-21T00:00:00.000Z|119456469
+Total|2026-05-22T00:00:00.000Z|55441035
+Total|2026-05-23T00:00:00.000Z|25016273
+Total|2026-05-24T00:00:00.000Z|122981702
+Total|2026-05-25T00:00:00.000Z|496635108
+Total|2026-05-26T00:00:00.000Z|115285063
+Total|2026-05-27T00:00:00.000Z|147078366
+Total|2026-05-28T00:00:00.000Z|5187423693
+Total|2026-05-29T00:00:00.000Z|135705703
+Total|2026-05-30T00:00:00.000Z|164147470
+Total|2026-05-31T00:00:00.000Z|187229325
+Total|2026-06-01T00:00:00.000Z|91418930
+Total|2026-06-02T00:00:00.000Z|47666437
+Total|2026-06-03T00:00:00.000Z|78896755
+Total|2026-06-04T00:00:00.000Z|47321646
+N/A, N/A|2026-05-20T00:00:00.000Z|0
+N/A, N/A|2026-05-21T00:00:00.000Z|0
+N/A, N/A|2026-05-22T00:00:00.000Z|0
+N/A, N/A|2026-05-23T00:00:00.000Z|0
+N/A, N/A|2026-05-24T00:00:00.000Z|0
+N/A, N/A|2026-05-25T00:00:00.000Z|202
+N/A, N/A|2026-05-26T00:00:00.000Z|0
+N/A, N/A|2026-05-27T00:00:00.000Z|0
+N/A, N/A|2026-05-28T00:00:00.000Z|0
+N/A, N/A|2026-05-29T00:00:00.000Z|0
+N/A, N/A|2026-05-30T00:00:00.000Z|0
+N/A, N/A|2026-05-31T00:00:00.000Z|0
+N/A, N/A|2026-06-01T00:00:00.000Z|0
+N/A, N/A|2026-06-02T00:00:00.000Z|0
+N/A, N/A|2026-06-03T00:00:00.000Z|0
+N/A, N/A|2026-06-04T00:00:00.000Z|0
+N/A, team_Guard|2026-05-20T00:00:00.000Z|1162
+N/A, team_Guard|2026-05-21T00:00:00.000Z|10796
+N/A, team_Guard|2026-05-22T00:00:00.000Z|4549
+N/A, team_Guard|2026-05-23T00:00:00.000Z|1262
+N/A, team_Guard|2026-05-24T00:00:00.000Z|1060
+N/A, team_Guard|2026-05-25T00:00:00.000Z|870
+N/A, team_Guard|2026-05-26T00:00:00.000Z|12103
+N/A, team_Guard|2026-05-27T00:00:00.000Z|14064
+N/A, team_Guard|2026-05-28T00:00:00.000Z|12517
+N/A, team_Guard|2026-05-29T00:00:00.000Z|12783
+N/A, team_Guard|2026-05-30T00:00:00.000Z|15260
+N/A, team_Guard|2026-05-31T00:00:00.000Z|16042
+N/A, team_Guard|2026-06-01T00:00:00.000Z|5978
+N/A, team_Guard|2026-06-02T00:00:00.000Z|2624
+N/A, team_Guard|2026-06-03T00:00:00.000Z|4727
+N/A, team_Guard|2026-06-04T00:00:00.000Z|2258
+N/A, team_Inmate|2026-05-20T00:00:00.000Z|4452
+N/A, team_Inmate|2026-05-21T00:00:00.000Z|44084
+N/A, team_Inmate|2026-05-22T00:00:00.000Z|17968
+N/A, team_Inmate|2026-05-23T00:00:00.000Z|3202
+N/A, team_Inmate|2026-05-24T00:00:00.000Z|2506
+N/A, team_Inmate|2026-05-25T00:00:00.000Z|1762
+N/A, team_Inmate|2026-05-26T00:00:00.000Z|42471
+N/A, team_Inmate|2026-05-27T00:00:00.000Z|48525
+N/A, team_Inmate|2026-05-28T00:00:00.000Z|47152
+N/A, team_Inmate|2026-05-29T00:00:00.000Z|48491
+N/A, team_Inmate|2026-05-30T00:00:00.000Z|56686
+N/A, team_Inmate|2026-05-31T00:00:00.000Z|61393
+N/A, team_Inmate|2026-06-01T00:00:00.000Z|24015
+N/A, team_Inmate|2026-06-02T00:00:00.000Z|11611
+N/A, team_Inmate|2026-06-03T00:00:00.000Z|22406
+N/A, team_Inmate|2026-06-04T00:00:00.000Z|10199
+N/A, team_Operator|2026-05-20T00:00:00.000Z|2
+N/A, team_Operator|2026-05-21T00:00:00.000Z|51
+N/A, team_Operator|2026-05-22T00:00:00.000Z|33
+N/A, team_Operator|2026-05-23T00:00:00.000Z|93
+N/A, team_Operator|2026-05-24T00:00:00.000Z|124
+N/A, team_Operator|2026-05-25T00:00:00.000Z|0
+N/A, team_Operator|2026-05-26T00:00:00.000Z|166
+N/A, team_Operator|2026-05-27T00:00:00.000Z|181
+N/A, team_Operator|2026-05-28T00:00:00.000Z|54
+N/A, team_Operator|2026-05-29T00:00:00.000Z|102
+N/A, team_Operator|2026-05-30T00:00:00.000Z|71
+N/A, team_Operator|2026-05-31T00:00:00.000Z|59
+N/A, team_Operator|2026-06-01T00:00:00.000Z|50
+N/A, team_Operator|2026-06-02T00:00:00.000Z|28
+N/A, team_Operator|2026-06-03T00:00:00.000Z|106
+N/A, team_Operator|2026-06-04T00:00:00.000Z|57
+N/A, team_Warden|2026-05-20T00:00:00.000Z|0
+N/A, team_Warden|2026-05-21T00:00:00.000Z|30
+N/A, team_Warden|2026-05-22T00:00:00.000Z|5
+N/A, team_Warden|2026-05-23T00:00:00.000Z|181
+N/A, team_Warden|2026-05-24T00:00:00.000Z|52
+N/A, team_Warden|2026-05-25T00:00:00.000Z|17
+N/A, team_Warden|2026-05-26T00:00:00.000Z|68
+N/A, team_Warden|2026-05-27T00:00:00.000Z|55
+N/A, team_Warden|2026-05-28T00:00:00.000Z|34
+N/A, team_Warden|2026-05-29T00:00:00.000Z|39
+N/A, team_Warden|2026-05-30T00:00:00.000Z|98
+N/A, team_Warden|2026-05-31T00:00:00.000Z|138
+N/A, team_Warden|2026-06-01T00:00:00.000Z|26
+N/A, team_Warden|2026-06-02T00:00:00.000Z|28
+N/A, team_Warden|2026-06-03T00:00:00.000Z|19
+N/A, team_Warden|2026-06-04T00:00:00.000Z|28
+team_Guard, Box Placed!|2026-05-20T00:00:00.000Z|4489
+team_Guard, Box Placed!|2026-05-21T00:00:00.000Z|211195
+team_Guard, Box Placed!|2026-05-22T00:00:00.000Z|30017
+team_Guard, Box Placed!|2026-05-23T00:00:00.000Z|554428
+team_Guard, Box Placed!|2026-05-24T00:00:00.000Z|490838
+team_Guard, Box Placed!|2026-05-25T00:00:00.000Z|148468
+team_Guard, Box Placed!|2026-05-26T00:00:00.000Z|362302
+team_Guard, Box Placed!|2026-05-27T00:00:00.000Z|346432
+team_Guard, Box Placed!|2026-05-28T00:00:00.000Z|268108
+team_Guard, Box Placed!|2026-05-29T00:00:00.000Z|413930
+team_Guard, Box Placed!|2026-05-30T00:00:00.000Z|390348
+team_Guard, Box Placed!|2026-05-31T00:00:00.000Z|301057
+team_Guard, Box Placed!|2026-06-01T00:00:00.000Z|87586
+team_Guard, Box Placed!|2026-06-02T00:00:00.000Z|53624
+team_Guard, Box Placed!|2026-06-03T00:00:00.000Z|70063
+team_Guard, Box Placed!|2026-06-04T00:00:00.000Z|15198
+team_Guard, Completed quest!|2026-05-20T00:00:00.000Z|116650
+team_Guard, Completed quest!|2026-05-21T00:00:00.000Z|1085050
+team_Guard, Completed quest!|2026-05-22T00:00:00.000Z|508550
+team_Guard, Completed quest!|2026-05-23T00:00:00.000Z|211300
+team_Guard, Completed quest!|2026-05-24T00:00:00.000Z|198500
+team_Guard, Completed quest!|2026-05-25T00:00:00.000Z|129600
+team_Guard, Completed quest!|2026-05-26T00:00:00.000Z|1138800
+team_Guard, Completed quest!|2026-05-27T00:00:00.000Z|1386350
+team_Guard, Completed quest!|2026-05-28T00:00:00.000Z|1274550
+team_Guard, Completed quest!|2026-05-29T00:00:00.000Z|1345650
+team_Guard, Completed quest!|2026-05-30T00:00:00.000Z|1509700
+team_Guard, Completed quest!|2026-05-31T00:00:00.000Z|1584350
+team_Guard, Completed quest!|2026-06-01T00:00:00.000Z|697600
+team_Guard, Completed quest!|2026-06-02T00:00:00.000Z|366050
+team_Guard, Completed quest!|2026-06-03T00:00:00.000Z|589850
+team_Guard, Completed quest!|2026-06-04T00:00:00.000Z|283550
+team_Guard, Daily Reward|2026-05-20T00:00:00.000Z|100000
+team_Guard, Daily Reward|2026-05-21T00:00:00.000Z|1090000
+team_Guard, Daily Reward|2026-05-22T00:00:00.000Z|495000
+team_Guard, Daily Reward|2026-05-23T00:00:00.000Z|165000
+team_Guard, Daily Reward|2026-05-24T00:00:00.000Z|145000
+team_Guard, Daily Reward|2026-05-25T00:00:00.000Z|185000
+team_Guard, Daily Reward|2026-05-26T00:00:00.000Z|1190000
+team_Guard, Daily Reward|2026-05-27T00:00:00.000Z|1170000
+team_Guard, Daily Reward|2026-05-28T00:00:00.000Z|1205000
+team_Guard, Daily Reward|2026-05-29T00:00:00.000Z|1275000
+team_Guard, Daily Reward|2026-05-30T00:00:00.000Z|1545000
+team_Guard, Daily Reward|2026-05-31T00:00:00.000Z|1230000
+team_Guard, Daily Reward|2026-06-01T00:00:00.000Z|585000
+team_Guard, Daily Reward|2026-06-02T00:00:00.000Z|305000
+team_Guard, Daily Reward|2026-06-03T00:00:00.000Z|465000
+team_Guard, Daily Reward|2026-06-04T00:00:00.000Z|85000
+team_Guard, Escape Reward|2026-05-20T00:00:00.000Z|0
+team_Guard, Escape Reward|2026-05-21T00:00:00.000Z|0
+team_Guard, Escape Reward|2026-05-22T00:00:00.000Z|0
+team_Guard, Escape Reward|2026-05-23T00:00:00.000Z|10000
+team_Guard, Escape Reward|2026-05-24T00:00:00.000Z|0
+team_Guard, Escape Reward|2026-05-25T00:00:00.000Z|0
+team_Guard, Escape Reward|2026-05-26T00:00:00.000Z|0
+team_Guard, Escape Reward|2026-05-27T00:00:00.000Z|0
+team_Guard, Escape Reward|2026-05-28T00:00:00.000Z|0
+team_Guard, Escape Reward|2026-05-29T00:00:00.000Z|0
+team_Guard, Escape Reward|2026-05-30T00:00:00.000Z|0
+team_Guard, Escape Reward|2026-05-31T00:00:00.000Z|0
+team_Guard, Escape Reward|2026-06-01T00:00:00.000Z|0
+team_Guard, Escape Reward|2026-06-02T00:00:00.000Z|0
+team_Guard, Escape Reward|2026-06-03T00:00:00.000Z|0
+team_Guard, Escape Reward|2026-06-04T00:00:00.000Z|0
+team_Guard, Given by admin Sjn4n|2026-05-20T00:00:00.000Z|0
+team_Guard, Given by admin Sjn4n|2026-05-21T00:00:00.000Z|0
+team_Guard, Given by admin Sjn4n|2026-05-22T00:00:00.000Z|0
+team_Guard, Given by admin Sjn4n|2026-05-23T00:00:00.000Z|0
+team_Guard, Given by admin Sjn4n|2026-05-24T00:00:00.000Z|0
+team_Guard, Given by admin Sjn4n|2026-05-25T00:00:00.000Z|0
+team_Guard, Given by admin Sjn4n|2026-05-26T00:00:00.000Z|1000000
+team_Guard, Given by admin Sjn4n|2026-05-27T00:00:00.000Z|0
+team_Guard, Given by admin Sjn4n|2026-05-28T00:00:00.000Z|0
+team_Guard, Given by admin Sjn4n|2026-05-29T00:00:00.000Z|0
+team_Guard, Given by admin Sjn4n|2026-05-30T00:00:00.000Z|0
+team_Guard, Given by admin Sjn4n|2026-05-31T00:00:00.000Z|0
+team_Guard, Given by admin Sjn4n|2026-06-01T00:00:00.000Z|0
+team_Guard, Given by admin Sjn4n|2026-06-02T00:00:00.000Z|0
+team_Guard, Given by admin Sjn4n|2026-06-03T00:00:00.000Z|0
+team_Guard, Given by admin Sjn4n|2026-06-04T00:00:00.000Z|0
+team_Guard, Guard Salary|2026-05-20T00:00:00.000Z|53900
+team_Guard, Guard Salary|2026-05-21T00:00:00.000Z|628950
+team_Guard, Guard Salary|2026-05-22T00:00:00.000Z|387450
+team_Guard, Guard Salary|2026-05-23T00:00:00.000Z|388150
+team_Guard, Guard Salary|2026-05-24T00:00:00.000Z|429450
+team_Guard, Guard Salary|2026-05-25T00:00:00.000Z|185850
+team_Guard, Guard Salary|2026-05-26T00:00:00.000Z|968450
+team_Guard, Guard Salary|2026-05-27T00:00:00.000Z|1157450
+team_Guard, Guard Salary|2026-05-28T00:00:00.000Z|1065400
+team_Guard, Guard Salary|2026-05-29T00:00:00.000Z|812350
+team_Guard, Guard Salary|2026-05-30T00:00:00.000Z|898450
+team_Guard, Guard Salary|2026-05-31T00:00:00.000Z|1176350
+team_Guard, Guard Salary|2026-06-01T00:00:00.000Z|388150
+team_Guard, Guard Salary|2026-06-02T00:00:00.000Z|304500
+team_Guard, Guard Salary|2026-06-03T00:00:00.000Z|449400
+team_Guard, Guard Salary|2026-06-04T00:00:00.000Z|322700
+team_Guard, Inmate Arrest Reward|2026-05-20T00:00:00.000Z|507500
+team_Guard, Inmate Arrest Reward|2026-05-21T00:00:00.000Z|6286000
+team_Guard, Inmate Arrest Reward|2026-05-22T00:00:00.000Z|2828875
+team_Guard, Inmate Arrest Reward|2026-05-23T00:00:00.000Z|1398250
+team_Guard, Inmate Arrest Reward|2026-05-24T00:00:00.000Z|948500
+team_Guard, Inmate Arrest Reward|2026-05-25T00:00:00.000Z|728875
+team_Guard, Inmate Arrest Reward|2026-05-26T00:00:00.000Z|7694750
+team_Guard, Inmate Arrest Reward|2026-05-27T00:00:00.000Z|10691625
+team_Guard, Inmate Arrest Reward|2026-05-28T00:00:00.000Z|9667000
+team_Guard, Inmate Arrest Reward|2026-05-29T00:00:00.000Z|9219875
+team_Guard, Inmate Arrest Reward|2026-05-30T00:00:00.000Z|10445750
+team_Guard, Inmate Arrest Reward|2026-05-31T00:00:00.000Z|11068750
+team_Guard, Inmate Arrest Reward|2026-06-01T00:00:00.000Z|5066250
+team_Guard, Inmate Arrest Reward|2026-06-02T00:00:00.000Z|3143000
+team_Guard, Inmate Arrest Reward|2026-06-03T00:00:00.000Z|4186875
+team_Guard, Inmate Arrest Reward|2026-06-04T00:00:00.000Z|2457000
+team_Guard, Player eliminated|2026-05-20T00:00:00.000Z|156000
+team_Guard, Player eliminated|2026-05-21T00:00:00.000Z|1287750
+team_Guard, Player eliminated|2026-05-22T00:00:00.000Z|592500
+team_Guard, Player eliminated|2026-05-23T00:00:00.000Z|69750
+team_Guard, Player eliminated|2026-05-24T00:00:00.000Z|38750
+team_Guard, Player eliminated|2026-05-25T00:00:00.000Z|22250
+team_Guard, Player eliminated|2026-05-26T00:00:00.000Z|1556500
+team_Guard, Player eliminated|2026-05-27T00:00:00.000Z|1776750
+team_Guard, Player eliminated|2026-05-28T00:00:00.000Z|1491250
+team_Guard, Player eliminated|2026-05-29T00:00:00.000Z|1555500
+team_Guard, Player eliminated|2026-05-30T00:00:00.000Z|1954250
+team_Guard, Player eliminated|2026-05-31T00:00:00.000Z|2038000
+team_Guard, Player eliminated|2026-06-01T00:00:00.000Z|727500
+team_Guard, Player eliminated|2026-06-02T00:00:00.000Z|278750
+team_Guard, Player eliminated|2026-06-03T00:00:00.000Z|547750
+team_Guard, Player eliminated|2026-06-04T00:00:00.000Z|254500
+team_Guard, Product Purchase|2026-05-20T00:00:00.000Z|0
+team_Guard, Product Purchase|2026-05-21T00:00:00.000Z|0
+team_Guard, Product Purchase|2026-05-22T00:00:00.000Z|0
+team_Guard, Product Purchase|2026-05-23T00:00:00.000Z|2925000
+team_Guard, Product Purchase|2026-05-24T00:00:00.000Z|0
+team_Guard, Product Purchase|2026-05-25T00:00:00.000Z|319000000
+team_Guard, Product Purchase|2026-05-26T00:00:00.000Z|0
+team_Guard, Product Purchase|2026-05-27T00:00:00.000Z|0
+team_Guard, Product Purchase|2026-05-28T00:00:00.000Z|0
+team_Guard, Product Purchase|2026-05-29T00:00:00.000Z|0
+team_Guard, Product Purchase|2026-05-30T00:00:00.000Z|0
+team_Guard, Product Purchase|2026-05-31T00:00:00.000Z|0
+team_Guard, Product Purchase|2026-06-01T00:00:00.000Z|0
+team_Guard, Product Purchase|2026-06-02T00:00:00.000Z|0
+team_Guard, Product Purchase|2026-06-03T00:00:00.000Z|0
+team_Guard, Product Purchase|2026-06-04T00:00:00.000Z|0
+team_Guard, N/A|2026-05-20T00:00:00.000Z|0
+team_Guard, N/A|2026-05-21T00:00:00.000Z|0
+team_Guard, N/A|2026-05-22T00:00:00.000Z|0
+team_Guard, N/A|2026-05-23T00:00:00.000Z|0
+team_Guard, N/A|2026-05-24T00:00:00.000Z|0
+team_Guard, N/A|2026-05-25T00:00:00.000Z|0
+team_Guard, N/A|2026-05-26T00:00:00.000Z|0
+team_Guard, N/A|2026-05-27T00:00:00.000Z|0
+team_Guard, N/A|2026-05-28T00:00:00.000Z|0
+team_Guard, N/A|2026-05-29T00:00:00.000Z|0
+team_Guard, N/A|2026-05-30T00:00:00.000Z|0
+team_Guard, N/A|2026-05-31T00:00:00.000Z|0
+team_Guard, N/A|2026-06-01T00:00:00.000Z|0
+team_Guard, N/A|2026-06-02T00:00:00.000Z|0
+team_Guard, N/A|2026-06-03T00:00:00.000Z|0
+team_Guard, N/A|2026-06-04T00:00:00.000Z|0
+team_Inmate, Box Placed!|2026-05-20T00:00:00.000Z|242216
+team_Inmate, Box Placed!|2026-05-21T00:00:00.000Z|3171264
+team_Inmate, Box Placed!|2026-05-22T00:00:00.000Z|1331244
+team_Inmate, Box Placed!|2026-05-23T00:00:00.000Z|730927
+team_Inmate, Box Placed!|2026-05-24T00:00:00.000Z|530278
+team_Inmate, Box Placed!|2026-05-25T00:00:00.000Z|271308
+team_Inmate, Box Placed!|2026-05-26T00:00:00.000Z|2529651
+team_Inmate, Box Placed!|2026-05-27T00:00:00.000Z|3110726
+team_Inmate, Box Placed!|2026-05-28T00:00:00.000Z|2972916
+team_Inmate, Box Placed!|2026-05-29T00:00:00.000Z|3519759
+team_Inmate, Box Placed!|2026-05-30T00:00:00.000Z|3982196
+team_Inmate, Box Placed!|2026-05-31T00:00:00.000Z|4231155
+team_Inmate, Box Placed!|2026-06-01T00:00:00.000Z|1735773
+team_Inmate, Box Placed!|2026-06-02T00:00:00.000Z|876542
+team_Inmate, Box Placed!|2026-06-03T00:00:00.000Z|1972129
+team_Inmate, Box Placed!|2026-06-04T00:00:00.000Z|998210
+team_Inmate, Case Refund|2026-05-20T00:00:00.000Z|0
+team_Inmate, Case Refund|2026-05-21T00:00:00.000Z|0
+team_Inmate, Case Refund|2026-05-22T00:00:00.000Z|40000
+team_Inmate, Case Refund|2026-05-23T00:00:00.000Z|0
+team_Inmate, Case Refund|2026-05-24T00:00:00.000Z|0
+team_Inmate, Case Refund|2026-05-25T00:00:00.000Z|0
+team_Inmate, Case Refund|2026-05-26T00:00:00.000Z|0
+team_Inmate, Case Refund|2026-05-27T00:00:00.000Z|0
+team_Inmate, Case Refund|2026-05-28T00:00:00.000Z|25000
+team_Inmate, Case Refund|2026-05-29T00:00:00.000Z|0
+team_Inmate, Case Refund|2026-05-30T00:00:00.000Z|0
+team_Inmate, Case Refund|2026-05-31T00:00:00.000Z|0
+team_Inmate, Case Refund|2026-06-01T00:00:00.000Z|0
+team_Inmate, Case Refund|2026-06-02T00:00:00.000Z|0
+team_Inmate, Case Refund|2026-06-03T00:00:00.000Z|0
+team_Inmate, Case Refund|2026-06-04T00:00:00.000Z|0
+team_Inmate, Collected Trash|2026-05-20T00:00:00.000Z|1828189
+team_Inmate, Collected Trash|2026-05-21T00:00:00.000Z|20222995
+team_Inmate, Collected Trash|2026-05-22T00:00:00.000Z|9548888
+team_Inmate, Collected Trash|2026-05-23T00:00:00.000Z|2804680
+team_Inmate, Collected Trash|2026-05-24T00:00:00.000Z|1605200
+team_Inmate, Collected Trash|2026-05-25T00:00:00.000Z|1121853
+team_Inmate, Collected Trash|2026-05-26T00:00:00.000Z|22463352
+team_Inmate, Collected Trash|2026-05-27T00:00:00.000Z|26528954
+team_Inmate, Collected Trash|2026-05-28T00:00:00.000Z|25979502
+team_Inmate, Collected Trash|2026-05-29T00:00:00.000Z|26618956
+team_Inmate, Collected Trash|2026-05-30T00:00:00.000Z|30384855
+team_Inmate, Collected Trash|2026-05-31T00:00:00.000Z|33204851
+team_Inmate, Collected Trash|2026-06-01T00:00:00.000Z|13942149
+team_Inmate, Collected Trash|2026-06-02T00:00:00.000Z|7519084
+team_Inmate, Collected Trash|2026-06-03T00:00:00.000Z|12440851
+team_Inmate, Collected Trash|2026-06-04T00:00:00.000Z|6991199
+team_Inmate, Completed quest!|2026-05-20T00:00:00.000Z|363200
+team_Inmate, Completed quest!|2026-05-21T00:00:00.000Z|3373800
+team_Inmate, Completed quest!|2026-05-22T00:00:00.000Z|1402850
+team_Inmate, Completed quest!|2026-05-23T00:00:00.000Z|380700
+team_Inmate, Completed quest!|2026-05-24T00:00:00.000Z|289550
+team_Inmate, Completed quest!|2026-05-25T00:00:00.000Z|200850
+team_Inmate, Completed quest!|2026-05-26T00:00:00.000Z|2877000
+team_Inmate, Completed quest!|2026-05-27T00:00:00.000Z|3293600
+team_Inmate, Completed quest!|2026-05-28T00:00:00.000Z|3209900
+team_Inmate, Completed quest!|2026-05-29T00:00:00.000Z|3304600
+team_Inmate, Completed quest!|2026-05-30T00:00:00.000Z|4090150
+team_Inmate, Completed quest!|2026-05-31T00:00:00.000Z|4556150
+team_Inmate, Completed quest!|2026-06-01T00:00:00.000Z|2068600
+team_Inmate, Completed quest!|2026-06-02T00:00:00.000Z|1103000
+team_Inmate, Completed quest!|2026-06-03T00:00:00.000Z|1879100
+team_Inmate, Completed quest!|2026-06-04T00:00:00.000Z|875950
+team_Inmate, Daily Reward|2026-05-20T00:00:00.000Z|490000
+team_Inmate, Daily Reward|2026-05-21T00:00:00.000Z|5355000
+team_Inmate, Daily Reward|2026-05-22T00:00:00.000Z|1850000
+team_Inmate, Daily Reward|2026-05-23T00:00:00.000Z|400000
+team_Inmate, Daily Reward|2026-05-24T00:00:00.000Z|475000
+team_Inmate, Daily Reward|2026-05-25T00:00:00.000Z|350000
+team_Inmate, Daily Reward|2026-05-26T00:00:00.000Z|4955000
+team_Inmate, Daily Reward|2026-05-27T00:00:00.000Z|5515000
+team_Inmate, Daily Reward|2026-05-28T00:00:00.000Z|5240000
+team_Inmate, Daily Reward|2026-05-29T00:00:00.000Z|5210000
+team_Inmate, Daily Reward|2026-05-30T00:00:00.000Z|6245000
+team_Inmate, Daily Reward|2026-05-31T00:00:00.000Z|6940000
+team_Inmate, Daily Reward|2026-06-01T00:00:00.000Z|2500000
+team_Inmate, Daily Reward|2026-06-02T00:00:00.000Z|1340000
+team_Inmate, Daily Reward|2026-06-03T00:00:00.000Z|2570000
+team_Inmate, Daily Reward|2026-06-04T00:00:00.000Z|675000
+team_Inmate, Escape Reward|2026-05-20T00:00:00.000Z|5180000
+team_Inmate, Escape Reward|2026-05-21T00:00:00.000Z|46110000
+team_Inmate, Escape Reward|2026-05-22T00:00:00.000Z|22800000
+team_Inmate, Escape Reward|2026-05-23T00:00:00.000Z|7650000
+team_Inmate, Escape Reward|2026-05-24T00:00:00.000Z|4790000
+team_Inmate, Escape Reward|2026-05-25T00:00:00.000Z|4840000
+team_Inmate, Escape Reward|2026-05-26T00:00:00.000Z|41100000
+team_Inmate, Escape Reward|2026-05-27T00:00:00.000Z|55860000
+team_Inmate, Escape Reward|2026-05-28T00:00:00.000Z|51850000
+team_Inmate, Escape Reward|2026-05-29T00:00:00.000Z|49740000
+team_Inmate, Escape Reward|2026-05-30T00:00:00.000Z|61480000
+team_Inmate, Escape Reward|2026-05-31T00:00:00.000Z|76610000
+team_Inmate, Escape Reward|2026-06-01T00:00:00.000Z|43670000
+team_Inmate, Escape Reward|2026-06-02T00:00:00.000Z|20780000
+team_Inmate, Escape Reward|2026-06-03T00:00:00.000Z|35310000
+team_Inmate, Escape Reward|2026-06-04T00:00:00.000Z|23880000
+team_Inmate, Given by admin phasenull_dev|2026-05-20T00:00:00.000Z|0
+team_Inmate, Given by admin phasenull_dev|2026-05-21T00:00:00.000Z|0
+team_Inmate, Given by admin phasenull_dev|2026-05-22T00:00:00.000Z|0
+team_Inmate, Given by admin phasenull_dev|2026-05-23T00:00:00.000Z|0
+team_Inmate, Given by admin phasenull_dev|2026-05-24T00:00:00.000Z|0
+team_Inmate, Given by admin phasenull_dev|2026-05-25T00:00:00.000Z|500000
+team_Inmate, Given by admin phasenull_dev|2026-05-26T00:00:00.000Z|0
+team_Inmate, Given by admin phasenull_dev|2026-05-27T00:00:00.000Z|0
+team_Inmate, Given by admin phasenull_dev|2026-05-28T00:00:00.000Z|0
+team_Inmate, Given by admin phasenull_dev|2026-05-29T00:00:00.000Z|0
+team_Inmate, Given by admin phasenull_dev|2026-05-30T00:00:00.000Z|0
+team_Inmate, Given by admin phasenull_dev|2026-05-31T00:00:00.000Z|0
+team_Inmate, Given by admin phasenull_dev|2026-06-01T00:00:00.000Z|0
+team_Inmate, Given by admin phasenull_dev|2026-06-02T00:00:00.000Z|0
+team_Inmate, Given by admin phasenull_dev|2026-06-03T00:00:00.000Z|0
+team_Inmate, Given by admin phasenull_dev|2026-06-04T00:00:00.000Z|0
+team_Inmate, Given by admin Sjn4n|2026-05-20T00:00:00.000Z|0
+team_Inmate, Given by admin Sjn4n|2026-05-21T00:00:00.000Z|0
+team_Inmate, Given by admin Sjn4n|2026-05-22T00:00:00.000Z|0
+team_Inmate, Given by admin Sjn4n|2026-05-23T00:00:00.000Z|0
+team_Inmate, Given by admin Sjn4n|2026-05-24T00:00:00.000Z|0
+team_Inmate, Given by admin Sjn4n|2026-05-25T00:00:00.000Z|0
+team_Inmate, Given by admin Sjn4n|2026-05-26T00:00:00.000Z|0
+team_Inmate, Given by admin Sjn4n|2026-05-27T00:00:00.000Z|1000000
+team_Inmate, Given by admin Sjn4n|2026-05-28T00:00:00.000Z|0
+team_Inmate, Given by admin Sjn4n|2026-05-29T00:00:00.000Z|0
+team_Inmate, Given by admin Sjn4n|2026-05-30T00:00:00.000Z|0
+team_Inmate, Given by admin Sjn4n|2026-05-31T00:00:00.000Z|0
+team_Inmate, Given by admin Sjn4n|2026-06-01T00:00:00.000Z|0
+team_Inmate, Given by admin Sjn4n|2026-06-02T00:00:00.000Z|0
+team_Inmate, Given by admin Sjn4n|2026-06-03T00:00:00.000Z|0
+team_Inmate, Given by admin Sjn4n|2026-06-04T00:00:00.000Z|0
+team_Inmate, Player eliminated|2026-05-20T00:00:00.000Z|290500
+team_Inmate, Player eliminated|2026-05-21T00:00:00.000Z|2826000
+team_Inmate, Player eliminated|2026-05-22T00:00:00.000Z|1373500
+team_Inmate, Player eliminated|2026-05-23T00:00:00.000Z|233750
+team_Inmate, Player eliminated|2026-05-24T00:00:00.000Z|185000
+team_Inmate, Player eliminated|2026-05-25T00:00:00.000Z|73250
+team_Inmate, Player eliminated|2026-05-26T00:00:00.000Z|2208750
+team_Inmate, Player eliminated|2026-05-27T00:00:00.000Z|2700250
+team_Inmate, Player eliminated|2026-05-28T00:00:00.000Z|3355750
+team_Inmate, Player eliminated|2026-05-29T00:00:00.000Z|3140000
+team_Inmate, Player eliminated|2026-05-30T00:00:00.000Z|3687750
+team_Inmate, Player eliminated|2026-05-31T00:00:00.000Z|4002250
+team_Inmate, Player eliminated|2026-06-01T00:00:00.000Z|1666500
+team_Inmate, Player eliminated|2026-06-02T00:00:00.000Z|796250
+team_Inmate, Player eliminated|2026-06-03T00:00:00.000Z|1325000
+team_Inmate, Player eliminated|2026-06-04T00:00:00.000Z|739000
+team_Inmate, Product Purchase|2026-05-20T00:00:00.000Z|0
+team_Inmate, Product Purchase|2026-05-21T00:00:00.000Z|0
+team_Inmate, Product Purchase|2026-05-22T00:00:00.000Z|0
+team_Inmate, Product Purchase|2026-05-23T00:00:00.000Z|1750000
+team_Inmate, Product Purchase|2026-05-24T00:00:00.000Z|109750000
+team_Inmate, Product Purchase|2026-05-25T00:00:00.000Z|167375000
+team_Inmate, Product Purchase|2026-05-26T00:00:00.000Z|25000
+team_Inmate, Product Purchase|2026-05-27T00:00:00.000Z|25000
+team_Inmate, Product Purchase|2026-05-28T00:00:00.000Z|0
+team_Inmate, Product Purchase|2026-05-29T00:00:00.000Z|0
+team_Inmate, Product Purchase|2026-05-30T00:00:00.000Z|150000
+team_Inmate, Product Purchase|2026-05-31T00:00:00.000Z|0
+team_Inmate, Product Purchase|2026-06-01T00:00:00.000Z|25000
+team_Inmate, Product Purchase|2026-06-02T00:00:00.000Z|25000
+team_Inmate, Product Purchase|2026-06-03T00:00:00.000Z|0
+team_Inmate, Product Purchase|2026-06-04T00:00:00.000Z|0
+team_Inmate, N/A|2026-05-20T00:00:00.000Z|0
+team_Inmate, N/A|2026-05-21T00:00:00.000Z|0
+team_Inmate, N/A|2026-05-22T00:00:00.000Z|0
+team_Inmate, N/A|2026-05-23T00:00:00.000Z|0
+team_Inmate, N/A|2026-05-24T00:00:00.000Z|0
+team_Inmate, N/A|2026-05-25T00:00:00.000Z|0
+team_Inmate, N/A|2026-05-26T00:00:00.000Z|0
+team_Inmate, N/A|2026-05-27T00:00:00.000Z|0
+team_Inmate, N/A|2026-05-28T00:00:00.000Z|0
+team_Inmate, N/A|2026-05-29T00:00:00.000Z|0
+team_Inmate, N/A|2026-05-30T00:00:00.000Z|0
+team_Inmate, N/A|2026-05-31T00:00:00.000Z|0
+team_Inmate, N/A|2026-06-01T00:00:00.000Z|0
+team_Inmate, N/A|2026-06-02T00:00:00.000Z|0
+team_Inmate, N/A|2026-06-03T00:00:00.000Z|0
+team_Inmate, N/A|2026-06-04T00:00:00.000Z|0
+team_Inmate, Searched Trash Bin|2026-05-20T00:00:00.000Z|2520299
+team_Inmate, Searched Trash Bin|2026-05-21T00:00:00.000Z|27480656
+team_Inmate, Searched Trash Bin|2026-05-22T00:00:00.000Z|12113671
+team_Inmate, Searched Trash Bin|2026-05-23T00:00:00.000Z|4200230
+team_Inmate, Searched Trash Bin|2026-05-24T00:00:00.000Z|2627606
+team_Inmate, Searched Trash Bin|2026-05-25T00:00:00.000Z|1384003
+team_Inmate, Searched Trash Bin|2026-05-26T00:00:00.000Z|24395429
+team_Inmate, Searched Trash Bin|2026-05-27T00:00:00.000Z|31447401
+team_Inmate, Searched Trash Bin|2026-05-28T00:00:00.000Z|29323244
+team_Inmate, Searched Trash Bin|2026-05-29T00:00:00.000Z|29086411
+team_Inmate, Searched Trash Bin|2026-05-30T00:00:00.000Z|36855331
+team_Inmate, Searched Trash Bin|2026-05-31T00:00:00.000Z|39716548
+team_Inmate, Searched Trash Bin|2026-06-01T00:00:00.000Z|18044080
+team_Inmate, Searched Trash Bin|2026-06-02T00:00:00.000Z|10574099
+team_Inmate, Searched Trash Bin|2026-06-03T00:00:00.000Z|16715996
+team_Inmate, Searched Trash Bin|2026-06-04T00:00:00.000Z|9465697
+team_Operator, Box Placed!|2026-05-20T00:00:00.000Z|0
+team_Operator, Box Placed!|2026-05-21T00:00:00.000Z|723
+team_Operator, Box Placed!|2026-05-22T00:00:00.000Z|0
+team_Operator, Box Placed!|2026-05-23T00:00:00.000Z|41269
+team_Operator, Box Placed!|2026-05-24T00:00:00.000Z|86809
+team_Operator, Box Placed!|2026-05-25T00:00:00.000Z|0
+team_Operator, Box Placed!|2026-05-26T00:00:00.000Z|4556
+team_Operator, Box Placed!|2026-05-27T00:00:00.000Z|88178
+team_Operator, Box Placed!|2026-05-28T00:00:00.000Z|1191
+team_Operator, Box Placed!|2026-05-29T00:00:00.000Z|40432
+team_Operator, Box Placed!|2026-05-30T00:00:00.000Z|0
+team_Operator, Box Placed!|2026-05-31T00:00:00.000Z|0
+team_Operator, Box Placed!|2026-06-01T00:00:00.000Z|0
+team_Operator, Box Placed!|2026-06-02T00:00:00.000Z|997
+team_Operator, Box Placed!|2026-06-03T00:00:00.000Z|2683
+team_Operator, Box Placed!|2026-06-04T00:00:00.000Z|0
+team_Operator, Completed quest!|2026-05-20T00:00:00.000Z|300
+team_Operator, Completed quest!|2026-05-21T00:00:00.000Z|3550
+team_Operator, Completed quest!|2026-05-22T00:00:00.000Z|850
+team_Operator, Completed quest!|2026-05-23T00:00:00.000Z|4750
+team_Operator, Completed quest!|2026-05-24T00:00:00.000Z|6050
+team_Operator, Completed quest!|2026-05-25T00:00:00.000Z|0
+team_Operator, Completed quest!|2026-05-26T00:00:00.000Z|23100
+team_Operator, Completed quest!|2026-05-27T00:00:00.000Z|31000
+team_Operator, Completed quest!|2026-05-28T00:00:00.000Z|11550
+team_Operator, Completed quest!|2026-05-29T00:00:00.000Z|5300
+team_Operator, Completed quest!|2026-05-30T00:00:00.000Z|16250
+team_Operator, Completed quest!|2026-05-31T00:00:00.000Z|4950
+team_Operator, Completed quest!|2026-06-01T00:00:00.000Z|6550
+team_Operator, Completed quest!|2026-06-02T00:00:00.000Z|1400
+team_Operator, Completed quest!|2026-06-03T00:00:00.000Z|9600
+team_Operator, Completed quest!|2026-06-04T00:00:00.000Z|10600
+team_Operator, Daily Reward|2026-05-20T00:00:00.000Z|0
+team_Operator, Daily Reward|2026-05-21T00:00:00.000Z|0
+team_Operator, Daily Reward|2026-05-22T00:00:00.000Z|0
+team_Operator, Daily Reward|2026-05-23T00:00:00.000Z|5000
+team_Operator, Daily Reward|2026-05-24T00:00:00.000Z|0
+team_Operator, Daily Reward|2026-05-25T00:00:00.000Z|0
+team_Operator, Daily Reward|2026-05-26T00:00:00.000Z|0
+team_Operator, Daily Reward|2026-05-27T00:00:00.000Z|15000
+team_Operator, Daily Reward|2026-05-28T00:00:00.000Z|0
+team_Operator, Daily Reward|2026-05-29T00:00:00.000Z|10000
+team_Operator, Daily Reward|2026-05-30T00:00:00.000Z|15000
+team_Operator, Daily Reward|2026-05-31T00:00:00.000Z|5000
+team_Operator, Daily Reward|2026-06-01T00:00:00.000Z|0
+team_Operator, Daily Reward|2026-06-02T00:00:00.000Z|0
+team_Operator, Daily Reward|2026-06-03T00:00:00.000Z|0
+team_Operator, Daily Reward|2026-06-04T00:00:00.000Z|0
+team_Operator, Guard Salary|2026-05-20T00:00:00.000Z|0
+team_Operator, Guard Salary|2026-05-21T00:00:00.000Z|11200
+team_Operator, Guard Salary|2026-05-22T00:00:00.000Z|17850
+team_Operator, Guard Salary|2026-05-23T00:00:00.000Z|41300
+team_Operator, Guard Salary|2026-05-24T00:00:00.000Z|46550
+team_Operator, Guard Salary|2026-05-25T00:00:00.000Z|0
+team_Operator, Guard Salary|2026-05-26T00:00:00.000Z|20650
+team_Operator, Guard Salary|2026-05-27T00:00:00.000Z|38500
+team_Operator, Guard Salary|2026-05-28T00:00:00.000Z|15050
+team_Operator, Guard Salary|2026-05-29T00:00:00.000Z|14350
+team_Operator, Guard Salary|2026-05-30T00:00:00.000Z|1400
+team_Operator, Guard Salary|2026-05-31T00:00:00.000Z|8400
+team_Operator, Guard Salary|2026-06-01T00:00:00.000Z|15750
+team_Operator, Guard Salary|2026-06-02T00:00:00.000Z|5950
+team_Operator, Guard Salary|2026-06-03T00:00:00.000Z|19250
+team_Operator, Guard Salary|2026-06-04T00:00:00.000Z|16450
+team_Operator, Inmate Arrest Reward|2026-05-20T00:00:00.000Z|0
+team_Operator, Inmate Arrest Reward|2026-05-21T00:00:00.000Z|69125
+team_Operator, Inmate Arrest Reward|2026-05-22T00:00:00.000Z|55125
+team_Operator, Inmate Arrest Reward|2026-05-23T00:00:00.000Z|54250
+team_Operator, Inmate Arrest Reward|2026-05-24T00:00:00.000Z|112875
+team_Operator, Inmate Arrest Reward|2026-05-25T00:00:00.000Z|0
+team_Operator, Inmate Arrest Reward|2026-05-26T00:00:00.000Z|434875
+team_Operator, Inmate Arrest Reward|2026-05-27T00:00:00.000Z|728000
+team_Operator, Inmate Arrest Reward|2026-05-28T00:00:00.000Z|294875
+team_Operator, Inmate Arrest Reward|2026-05-29T00:00:00.000Z|252000
+team_Operator, Inmate Arrest Reward|2026-05-30T00:00:00.000Z|135625
+team_Operator, Inmate Arrest Reward|2026-05-31T00:00:00.000Z|108500
+team_Operator, Inmate Arrest Reward|2026-06-01T00:00:00.000Z|63875
+team_Operator, Inmate Arrest Reward|2026-06-02T00:00:00.000Z|55125
+team_Operator, Inmate Arrest Reward|2026-06-03T00:00:00.000Z|245875
+team_Operator, Inmate Arrest Reward|2026-06-04T00:00:00.000Z|182875
+team_Operator, Player eliminated|2026-05-20T00:00:00.000Z|0
+team_Operator, Player eliminated|2026-05-21T00:00:00.000Z|8750
+team_Operator, Player eliminated|2026-05-22T00:00:00.000Z|20750
+team_Operator, Player eliminated|2026-05-23T00:00:00.000Z|13000
+team_Operator, Player eliminated|2026-05-24T00:00:00.000Z|6500
+team_Operator, Player eliminated|2026-05-25T00:00:00.000Z|0
+team_Operator, Player eliminated|2026-05-26T00:00:00.000Z|9500
+team_Operator, Player eliminated|2026-05-27T00:00:00.000Z|15500
+team_Operator, Player eliminated|2026-05-28T00:00:00.000Z|2250
+team_Operator, Player eliminated|2026-05-29T00:00:00.000Z|3750
+team_Operator, Player eliminated|2026-05-30T00:00:00.000Z|3500
+team_Operator, Player eliminated|2026-05-31T00:00:00.000Z|1250
+team_Operator, Player eliminated|2026-06-01T00:00:00.000Z|2000
+team_Operator, Player eliminated|2026-06-02T00:00:00.000Z|250
+team_Operator, Player eliminated|2026-06-03T00:00:00.000Z|2250
+team_Operator, Player eliminated|2026-06-04T00:00:00.000Z|3000
+team_Operator, N/A|2026-05-20T00:00:00.000Z|0
+team_Operator, N/A|2026-05-21T00:00:00.000Z|0
+team_Operator, N/A|2026-05-22T00:00:00.000Z|0
+team_Operator, N/A|2026-05-23T00:00:00.000Z|0
+team_Operator, N/A|2026-05-24T00:00:00.000Z|0
+team_Operator, N/A|2026-05-25T00:00:00.000Z|0
+team_Operator, N/A|2026-05-26T00:00:00.000Z|0
+team_Operator, N/A|2026-05-27T00:00:00.000Z|0
+team_Operator, N/A|2026-05-28T00:00:00.000Z|0
+team_Operator, N/A|2026-05-29T00:00:00.000Z|0
+team_Operator, N/A|2026-05-30T00:00:00.000Z|0
+team_Operator, N/A|2026-05-31T00:00:00.000Z|0
+team_Operator, N/A|2026-06-01T00:00:00.000Z|0
+team_Operator, N/A|2026-06-02T00:00:00.000Z|0
+team_Operator, N/A|2026-06-03T00:00:00.000Z|0
+team_Operator, N/A|2026-06-04T00:00:00.000Z|0
+team_unknown, Escape Reward|2026-05-20T00:00:00.000Z|0
+team_unknown, Escape Reward|2026-05-21T00:00:00.000Z|10000
+team_unknown, Escape Reward|2026-05-22T00:00:00.000Z|10000
+team_unknown, Escape Reward|2026-05-23T00:00:00.000Z|0
+team_unknown, Escape Reward|2026-05-24T00:00:00.000Z|0
+team_unknown, Escape Reward|2026-05-25T00:00:00.000Z|0
+team_unknown, Escape Reward|2026-05-26T00:00:00.000Z|20000
+team_unknown, Escape Reward|2026-05-27T00:00:00.000Z|0
+team_unknown, Escape Reward|2026-05-28T00:00:00.000Z|20000
+team_unknown, Escape Reward|2026-05-29T00:00:00.000Z|0
+team_unknown, Escape Reward|2026-05-30T00:00:00.000Z|20000
+team_unknown, Escape Reward|2026-05-31T00:00:00.000Z|80000
+team_unknown, Escape Reward|2026-06-01T00:00:00.000Z|0
+team_unknown, Escape Reward|2026-06-02T00:00:00.000Z|40000
+team_unknown, Escape Reward|2026-06-03T00:00:00.000Z|40000
+team_unknown, Escape Reward|2026-06-04T00:00:00.000Z|10000
+team_unknown, Player eliminated|2026-05-20T00:00:00.000Z|0
+team_unknown, Player eliminated|2026-05-21T00:00:00.000Z|0
+team_unknown, Player eliminated|2026-05-22T00:00:00.000Z|0
+team_unknown, Player eliminated|2026-05-23T00:00:00.000Z|0
+team_unknown, Player eliminated|2026-05-24T00:00:00.000Z|0
+team_unknown, Player eliminated|2026-05-25T00:00:00.000Z|0
+team_unknown, Player eliminated|2026-05-26T00:00:00.000Z|250
+team_unknown, Player eliminated|2026-05-27T00:00:00.000Z|0
+team_unknown, Player eliminated|2026-05-28T00:00:00.000Z|250
+team_unknown, Player eliminated|2026-05-29T00:00:00.000Z|0
+team_unknown, Player eliminated|2026-05-30T00:00:00.000Z|250
+team_unknown, Player eliminated|2026-05-31T00:00:00.000Z|0
+team_unknown, Player eliminated|2026-06-01T00:00:00.000Z|0
+team_unknown, Player eliminated|2026-06-02T00:00:00.000Z|0
+team_unknown, Player eliminated|2026-06-03T00:00:00.000Z|0
+team_unknown, Player eliminated|2026-06-04T00:00:00.000Z|0
+team_Warden, Box Placed!|2026-05-20T00:00:00.000Z|0
+team_Warden, Box Placed!|2026-05-21T00:00:00.000Z|0
+team_Warden, Box Placed!|2026-05-22T00:00:00.000Z|160
+team_Warden, Box Placed!|2026-05-23T00:00:00.000Z|101426
+team_Warden, Box Placed!|2026-05-24T00:00:00.000Z|26979
+team_Warden, Box Placed!|2026-05-25T00:00:00.000Z|0
+team_Warden, Box Placed!|2026-05-26T00:00:00.000Z|165
+team_Warden, Box Placed!|2026-05-27T00:00:00.000Z|0
+team_Warden, Box Placed!|2026-05-28T00:00:00.000Z|0
+team_Warden, Box Placed!|2026-05-29T00:00:00.000Z|0
+team_Warden, Box Placed!|2026-05-30T00:00:00.000Z|0
+team_Warden, Box Placed!|2026-05-31T00:00:00.000Z|12782
+team_Warden, Box Placed!|2026-06-01T00:00:00.000Z|1023
+team_Warden, Box Placed!|2026-06-02T00:00:00.000Z|0
+team_Warden, Box Placed!|2026-06-03T00:00:00.000Z|0
+team_Warden, Box Placed!|2026-06-04T00:00:00.000Z|0
+team_Warden, Completed quest!|2026-05-20T00:00:00.000Z|0
+team_Warden, Completed quest!|2026-05-21T00:00:00.000Z|13200
+team_Warden, Completed quest!|2026-05-22T00:00:00.000Z|0
+team_Warden, Completed quest!|2026-05-23T00:00:00.000Z|24400
+team_Warden, Completed quest!|2026-05-24T00:00:00.000Z|5200
+team_Warden, Completed quest!|2026-05-25T00:00:00.000Z|1700
+team_Warden, Completed quest!|2026-05-26T00:00:00.000Z|8350
+team_Warden, Completed quest!|2026-05-27T00:00:00.000Z|4700
+team_Warden, Completed quest!|2026-05-28T00:00:00.000Z|10800
+team_Warden, Completed quest!|2026-05-29T00:00:00.000Z|4800
+team_Warden, Completed quest!|2026-05-30T00:00:00.000Z|15050
+team_Warden, Completed quest!|2026-05-31T00:00:00.000Z|10100
+team_Warden, Completed quest!|2026-06-01T00:00:00.000Z|1500
+team_Warden, Completed quest!|2026-06-02T00:00:00.000Z|3350
+team_Warden, Completed quest!|2026-06-03T00:00:00.000Z|1100
+team_Warden, Completed quest!|2026-06-04T00:00:00.000Z|950
+team_Warden, Daily Reward|2026-05-20T00:00:00.000Z|0
+team_Warden, Daily Reward|2026-05-21T00:00:00.000Z|0
+team_Warden, Daily Reward|2026-05-22T00:00:00.000Z|0
+team_Warden, Daily Reward|2026-05-23T00:00:00.000Z|0
+team_Warden, Daily Reward|2026-05-24T00:00:00.000Z|0
+team_Warden, Daily Reward|2026-05-25T00:00:00.000Z|0
+team_Warden, Daily Reward|2026-05-26T00:00:00.000Z|5000
+team_Warden, Daily Reward|2026-05-27T00:00:00.000Z|5000
+team_Warden, Daily Reward|2026-05-28T00:00:00.000Z|10000
+team_Warden, Daily Reward|2026-05-29T00:00:00.000Z|0
+team_Warden, Daily Reward|2026-05-30T00:00:00.000Z|0
+team_Warden, Daily Reward|2026-05-31T00:00:00.000Z|0
+team_Warden, Daily Reward|2026-06-01T00:00:00.000Z|0
+team_Warden, Daily Reward|2026-06-02T00:00:00.000Z|10000
+team_Warden, Daily Reward|2026-06-03T00:00:00.000Z|0
+team_Warden, Daily Reward|2026-06-04T00:00:00.000Z|0
+team_Warden, Given by admin TypeScriptGuy|2026-05-20T00:00:00.000Z|0
+team_Warden, Given by admin TypeScriptGuy|2026-05-21T00:00:00.000Z|0
+team_Warden, Given by admin TypeScriptGuy|2026-05-22T00:00:00.000Z|0
+team_Warden, Given by admin TypeScriptGuy|2026-05-23T00:00:00.000Z|0
+team_Warden, Given by admin TypeScriptGuy|2026-05-24T00:00:00.000Z|0
+team_Warden, Given by admin TypeScriptGuy|2026-05-25T00:00:00.000Z|0
+team_Warden, Given by admin TypeScriptGuy|2026-05-26T00:00:00.000Z|0
+team_Warden, Given by admin TypeScriptGuy|2026-05-27T00:00:00.000Z|0
+team_Warden, Given by admin TypeScriptGuy|2026-05-28T00:00:00.000Z|5050000000
+team_Warden, Given by admin TypeScriptGuy|2026-05-29T00:00:00.000Z|0
+team_Warden, Given by admin TypeScriptGuy|2026-05-30T00:00:00.000Z|0
+team_Warden, Given by admin TypeScriptGuy|2026-05-31T00:00:00.000Z|0
+team_Warden, Given by admin TypeScriptGuy|2026-06-01T00:00:00.000Z|0
+team_Warden, Given by admin TypeScriptGuy|2026-06-02T00:00:00.000Z|0
+team_Warden, Given by admin TypeScriptGuy|2026-06-03T00:00:00.000Z|0
+team_Warden, Given by admin TypeScriptGuy|2026-06-04T00:00:00.000Z|0
+team_Warden, Guard Salary|2026-05-20T00:00:00.000Z|0
+team_Warden, Guard Salary|2026-05-21T00:00:00.000Z|18550
+team_Warden, Guard Salary|2026-05-22T00:00:00.000Z|4200
+team_Warden, Guard Salary|2026-05-23T00:00:00.000Z|94850
+team_Warden, Guard Salary|2026-05-24T00:00:00.000Z|119700
+team_Warden, Guard Salary|2026-05-25T00:00:00.000Z|99750
+team_Warden, Guard Salary|2026-05-26T00:00:00.000Z|135450
+team_Warden, Guard Salary|2026-05-27T00:00:00.000Z|15750
+team_Warden, Guard Salary|2026-05-28T00:00:00.000Z|10850
+team_Warden, Guard Salary|2026-05-29T00:00:00.000Z|10500
+team_Warden, Guard Salary|2026-05-30T00:00:00.000Z|14000
+team_Warden, Guard Salary|2026-05-31T00:00:00.000Z|5250
+team_Warden, Guard Salary|2026-06-01T00:00:00.000Z|2100
+team_Warden, Guard Salary|2026-06-02T00:00:00.000Z|4550
+team_Warden, Guard Salary|2026-06-03T00:00:00.000Z|350
+team_Warden, Guard Salary|2026-06-04T00:00:00.000Z|12600
+team_Warden, Inmate Arrest Reward|2026-05-20T00:00:00.000Z|0
+team_Warden, Inmate Arrest Reward|2026-05-21T00:00:00.000Z|134750
+team_Warden, Inmate Arrest Reward|2026-05-22T00:00:00.000Z|7000
+team_Warden, Inmate Arrest Reward|2026-05-23T00:00:00.000Z|244125
+team_Warden, Inmate Arrest Reward|2026-05-24T00:00:00.000Z|37625
+team_Warden, Inmate Arrest Reward|2026-05-25T00:00:00.000Z|8750
+team_Warden, Inmate Arrest Reward|2026-05-26T00:00:00.000Z|97125
+team_Warden, Inmate Arrest Reward|2026-05-27T00:00:00.000Z|53375
+team_Warden, Inmate Arrest Reward|2026-05-28T00:00:00.000Z|49000
+team_Warden, Inmate Arrest Reward|2026-05-29T00:00:00.000Z|53375
+team_Warden, Inmate Arrest Reward|2026-05-30T00:00:00.000Z|222250
+team_Warden, Inmate Arrest Reward|2026-05-31T00:00:00.000Z|239750
+team_Warden, Inmate Arrest Reward|2026-06-01T00:00:00.000Z|90125
+team_Warden, Inmate Arrest Reward|2026-06-02T00:00:00.000Z|63875
+team_Warden, Inmate Arrest Reward|2026-06-03T00:00:00.000Z|25375
+team_Warden, Inmate Arrest Reward|2026-06-04T00:00:00.000Z|27125
+team_Warden, Player eliminated|2026-05-20T00:00:00.000Z|0
+team_Warden, Player eliminated|2026-05-21T00:00:00.000Z|3000
+team_Warden, Player eliminated|2026-05-22T00:00:00.000Z|0
+team_Warden, Player eliminated|2026-05-23T00:00:00.000Z|15000
+team_Warden, Player eliminated|2026-05-24T00:00:00.000Z|26000
+team_Warden, Player eliminated|2026-05-25T00:00:00.000Z|5750
+team_Warden, Player eliminated|2026-05-26T00:00:00.000Z|6250
+team_Warden, Player eliminated|2026-05-27T00:00:00.000Z|11000
+team_Warden, Player eliminated|2026-05-28T00:00:00.000Z|10500
+team_Warden, Player eliminated|2026-05-29T00:00:00.000Z|7750
+team_Warden, Player eliminated|2026-05-30T00:00:00.000Z|13250
+team_Warden, Player eliminated|2026-05-31T00:00:00.000Z|16250
+team_Warden, Player eliminated|2026-06-01T00:00:00.000Z|1750
+team_Warden, Player eliminated|2026-06-02T00:00:00.000Z|1750
+team_Warden, Player eliminated|2026-06-03T00:00:00.000Z|1000
+team_Warden, Player eliminated|2026-06-04T00:00:00.000Z|2500
+team_Warden, Product Purchase|2026-05-20T00:00:00.000Z|0
+team_Warden, Product Purchase|2026-05-21T00:00:00.000Z|0
+team_Warden, Product Purchase|2026-05-22T00:00:00.000Z|0
+team_Warden, Product Purchase|2026-05-23T00:00:00.000Z|500000
+team_Warden, Product Purchase|2026-05-24T00:00:00.000Z|0
+team_Warden, Product Purchase|2026-05-25T00:00:00.000Z|0
+team_Warden, Product Purchase|2026-05-26T00:00:00.000Z|0
+team_Warden, Product Purchase|2026-05-27T00:00:00.000Z|0
+team_Warden, Product Purchase|2026-05-28T00:00:00.000Z|0
+team_Warden, Product Purchase|2026-05-29T00:00:00.000Z|0
+team_Warden, Product Purchase|2026-05-30T00:00:00.000Z|0
+team_Warden, Product Purchase|2026-05-31T00:00:00.000Z|0
+team_Warden, Product Purchase|2026-06-01T00:00:00.000Z|0
+team_Warden, Product Purchase|2026-06-02T00:00:00.000Z|0
+team_Warden, Product Purchase|2026-06-03T00:00:00.000Z|0
+team_Warden, Product Purchase|2026-06-04T00:00:00.000Z|0
+team_Warden, N/A|2026-05-20T00:00:00.000Z|0
+team_Warden, N/A|2026-05-21T00:00:00.000Z|0
+team_Warden, N/A|2026-05-22T00:00:00.000Z|0
+team_Warden, N/A|2026-05-23T00:00:00.000Z|0
+team_Warden, N/A|2026-05-24T00:00:00.000Z|0
+team_Warden, N/A|2026-05-25T00:00:00.000Z|0
+team_Warden, N/A|2026-05-26T00:00:00.000Z|0
+team_Warden, N/A|2026-05-27T00:00:00.000Z|0
+team_Warden, N/A|2026-05-28T00:00:00.000Z|0
+team_Warden, N/A|2026-05-29T00:00:00.000Z|0
+team_Warden, N/A|2026-05-30T00:00:00.000Z|0
+team_Warden, N/A|2026-05-31T00:00:00.000Z|0
+team_Warden, N/A|2026-06-01T00:00:00.000Z|0
+team_Warden, N/A|2026-06-02T00:00:00.000Z|0
+team_Warden, N/A|2026-06-03T00:00:00.000Z|0
+team_Warden, N/A|2026-06-04T00:00:00.000Z|0
