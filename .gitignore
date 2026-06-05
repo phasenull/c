@@ -2,3 +2,5 @@
 *.txt
 *.ignore
 *.ignore.*
+**/*.csv
+4-file-w/scores.csv

@@ -70,6 +70,7 @@ char *convertToRow(struct User user)
 {
     char *buffer = malloc(MAX_ROW_LENGTH);
     sprintf(buffer, "%d,%d,%s,%s", user.id, user.score, user.name, user.surname);
+    buffer[strcspn(buffer, "\n")] = '\0';
     return buffer;
 }
 void loadCSV(struct ApplicationMemory *app)
@@ -77,7 +78,8 @@ void loadCSV(struct ApplicationMemory *app)
     fseek(app->stream, 0, SEEK_SET);
     struct User *buffer = malloc(sizeof(struct User));
     char *read_buffer = malloc(MAX_ROW_LENGTH);
-    while (strcmp(read_buffer, "") == 0 && buffer)
+    memset(read_buffer, 0, MAX_ROW_LENGTH);
+    while (fgets(read_buffer, MAX_ROW_LENGTH, app->stream) != NULL)
     {
         fgets(read_buffer, MAX_ROW_LENGTH, app->stream);
         printf("READ: %s\n", read_buffer);
@@ -93,15 +95,30 @@ void upsertUser(struct ApplicationMemory *app, struct User user)
 {
     fseek(app->stream, 0, SEEK_SET);
     char *temp = malloc(app->user_count * MAX_ROW_LENGTH);
+    temp[0] = '\0';
+    int is_update = 0;
     for (int i = 0; i < app->user_count; i++)
     {
-        struct User *buffer = app->user_list + i * sizeof(struct User);
+        struct User *buffer = &app->user_list[i];
         if (buffer->id == user.id)
         {
-            memcpy(app->user_list + i * sizeof(struct User), &user, sizeof(struct User));
-            printf("Updated user: %s", convertToRow(*(struct User *)(app->user_list + i * sizeof(struct User))));
+            is_update = 1;
+            app->user_list[i] = user;
+            printf("Updated user: %s", convertToRow(*(struct User *)(app->user_list + i)));
         }
+    }
+    if (!is_update)
+    {
+        app->user_list[app->user_count] = user;
+        app->user_count++;
+        reallocAppContext(app);
+    }
+
+    for (int i = 0; i < app->user_count; i++)
+    {
+        struct User *buffer = &app->user_list[i];
         strcat(temp, convertToRow(*buffer));
+        strcat(temp, "\n");
     }
     printf("data:%s\n", temp);
     fputs(temp, app->stream);
@@ -136,7 +153,7 @@ void mainloop(struct ApplicationMemory *app)
         case 3:
             for (int i = 0; i < app->user_count; i++)
             {
-                printf("\n[#%d]: %s", i, convertToRow(*(app->user_list + i * sizeof(struct User))));
+                printf("\n[#%d]: %s", i, convertToRow(*(app->user_list + i)));
             }
             break;
         default:
